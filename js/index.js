@@ -89,7 +89,7 @@ function changeAlienSkin(newSrc) {
 }
 
 
-let alienClicks = 1500;
+let alienClicks = 0;
 
  const alienHero = document.getElementById("alienPoppyHero"); 
 const alienFaceWrapper = document.querySelector(".alien-face-wrapper");
