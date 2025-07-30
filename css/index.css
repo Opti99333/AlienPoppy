@@ -1056,3 +1056,47 @@ margin-top: -10vh;
 .Button-Skins{
   margin-bottom: 35vh;
 }
+
+@media screen and (width: 1920px) and (height: 1200px) {
+  .eye {
+    width: 330px;          
+  }
+  .eye-left {
+    top: 35;            
+    left: 38;        
+  }
+  .eye-right {
+    top: 36;
+    left: 43;
+  }
+
+  .marcian-text p{
+    font-size: 22px;
+  }
+
+  .marcian-text h2{
+    font-size: 40px;
+  }
+}
+
+@media screen and (width: 1920px) and (height: 1440px) {
+  .eye {
+    width: 330px;
+  }
+  .eye-left {
+    top: 38;
+    left: 35;
+  }
+  .eye-right {
+    top: 40;
+    left: 50;
+  }
+  
+  .marcian-text p{
+    font-size: 22px;
+  }
+
+  .marcian-text h2{
+    font-size: 40px;
+  }
+}
